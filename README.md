@@ -2,6 +2,10 @@
 
 A full-stack Airbnb-inspired travel listing platform where users can discover, list, and review travel stays. Features complete authentication, image uploads to Cloudinary, and interactive maps powered by Mapbox. Built with Node.js, Express, MongoDB, and EJS.
 
+## 🌐 Live Demo
+
+**[wanderlust-w927.onrender.com](https://wanderlust-w927.onrender.com/)**
+
 ## ✨ Features
 
 - **Browse Listings** — Discover travel stays with images, location, price, and host details
